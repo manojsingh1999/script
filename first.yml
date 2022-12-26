@@ -1,0 +1,20 @@
+#key value object
+
+name: manoj
+age: 34
+server:
+  name: "nginx"
+  capacity: 50gb
+social_media:
+  - insta
+  - linkidin
+  - youtube
+misc: |
+  this is multiline string
+list_of_servers:
+  - server_1 :
+    name : "ec2"
+    volume : "60gb"
+  - server_2 :
+    name : "vm_instnces"
+    volume : "70gb"
